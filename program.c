@@ -2,4 +2,5 @@
 
 int main(){
 printf("Dobro dosli na Linux \n");
+  printf("Dobro dosli\n");
 }
